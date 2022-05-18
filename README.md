@@ -13,4 +13,4 @@
 ### Usage
 
 * To start the client, cd into the client folder and run `npm start`
-* To start the server, cd into the server folder and run `python manage.py runserver`
+* Open a second terminal start the server by cding into the server folder and run `python manage.py runserver`
